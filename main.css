@@ -45,6 +45,7 @@ button {
 body {
     min-height: 100vh;
     background-color: var(--clr-gray);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAio5C705LVniLDPhJtvNQLFetVKj8SM6Sxw&s);
 }
 
 header {
@@ -125,8 +126,8 @@ main {
     transform: translateX(-50%);
     font-size: 5rem;
     font-weight: 800;
-    z-index: 1;
-    text-shadow: 0px 0px 12px #0e0e0e3b;
+    z-index: 2;
+    text-shadow: 0px 0px 1px #0e0e0e3b;
     color: rgba(0, 0, 0, .02);
 }
 
